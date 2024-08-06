@@ -48,4 +48,4 @@ Ya tienes todo para que funcione.
 
 Si tienes alguna duda, no te preocupes, puedes dejarme un mensaje en los issues de GitHub.
 
-![img.png](../PIIScanner/docs/img.png)
+![img.png](docs/img.png)
